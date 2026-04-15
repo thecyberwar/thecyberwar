@@ -164,14 +164,24 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 
 
 ## 🐍 GitHub Snake Contribution
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecyberwar&theme=tokyonight" width="950" />
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecyberwar&theme=tokyonight" width="950" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecyberwar&theme=tokyonight" width="470" />
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecyberwar&theme=tokyonight" width="470" />
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecyberwar&theme=tokyonight" width="450" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecyberwar&theme=tokyonight" width="450" />
-</p>
+
+
 
 ---
 
