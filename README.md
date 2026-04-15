@@ -19,26 +19,24 @@
 
 ---
 
-## 🌐 Connect with Me  
+<h2 align="left">🌐 Connect with Me</h2>
 
-<p align="center">
-
+<p align="left">
 <a href="https://twitter.com/thecyberwar12">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<img src="https://img.shields.io/badge/Twitter-thecyberwar12-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/mayur-jawanjar-822a73342">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Mayur%20Jawanjar-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/the_cyber_war_12">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-the__cyber__war__12-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/c/@thecyberwar-v3">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 </a>
-
 </p>
 
 ---
