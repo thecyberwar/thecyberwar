@@ -133,4 +133,20 @@ With expertise spanning **offensive security**, **exploit development**, **rever
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thecyberwar&is_org=true&show_icons=true&theme=tokyonight&hide_border=false" alt="The Cyber War Stats" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecyberwar&is_org=true&layout=compact&theme=tokyonight&hide_border=false" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thecyberwar&theme=tokyonight&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thecyberwar&theme=tokyonight" />
+</p>
 
