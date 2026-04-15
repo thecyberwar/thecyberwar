@@ -1,22 +1,19 @@
 ![logo](https://github.com/thecyberwar/thecyberwar/blob/main/channels4_banner.jpg)
 
-<h1 align="center">Hi 👋, I'm Mayur Jawanjar</h1>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=thecyberwar&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=thecyberwar" />
-</p>
 
-<p align="center">
-<a href="https://twitter.com/thecyberwar12">
-<img src="https://img.shields.io/twitter/follow/thecyberwar12?logo=twitter&style=for-the-badge" />
-</a>
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayur+Jawanjar)](https://git.io/typing-svg)
+---
+
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/cms-logo.png" align="right" width="150"/>
+
+I'm **Almadad Ali**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
+
+With expertise spanning **offensive security**, **exploit development**, **reverse engineering**, and **web application security**, I aim to bridge the gap between theory and practice — helping individuals and organizations strengthen their defenses against ever-evolving threats.  
 
 ---
+
 
 <h2 align="left">🌐 Connect with Me</h2>
 
