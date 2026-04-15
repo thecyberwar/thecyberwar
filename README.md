@@ -19,12 +19,26 @@
 
 ---
 
-## 🌐 Connect with me
+## 🌐 Connect with Me  
+
 <p align="center">
-<a href="https://twitter.com/thecyberwar12"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30"/></a>
-<a href="https://linkedin.com/in/mayur-jawanjar-822a73342"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
-<a href="https://instagram.com/the_cyber_war_12"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30"/></a>
-<a href="https://www.youtube.com/c/@thecyberwar-v3"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="30"/></a>
+
+<a href="https://twitter.com/thecyberwar12">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/mayur-jawanjar-822a73342">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://instagram.com/the_cyber_war_12">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/c/@thecyberwar-v3">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
 </p>
 
 ---
