@@ -6,9 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Brush+Script+MT&size=40&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mayur+Jawanjar)](https://git.io/typing-svg)
 ---
 
-## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://raw.githubusercontent.com/ALMADADALI/ALMADADALI/refs/heads/main/cms-logo.png" align="right" width="150"/>
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><img src="https://github.com/thecyberwar/thecyberwar/blob/main/channels4_profile.jpg" align="right" width="150"/>
 
-I'm **Almadad Ali**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
+I'm **Mayur Jawanjar**, a highly skilled Cybersecurity Specialist, Ethical Hacker, and Security Researcher with a strong track record in penetration testing, malware forensics, and advanced vulnerability research.  
 
 With expertise spanning **offensive security**, **exploit development**, **reverse engineering**, and **web application security**, I aim to bridge the gap between theory and practice — helping individuals and organizations strengthen their defenses against ever-evolving threats.  
 
@@ -134,15 +134,3 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 </p>
 
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=thecyberwar&show_icons=true&locale=en&layout=compact" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thecyberwar&show_icons=true&locale=en" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thecyberwar" />
-</p>
