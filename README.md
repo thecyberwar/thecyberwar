@@ -152,3 +152,44 @@ With expertise spanning **offensive security**, **exploit development**, **rever
     </td>
   </tr>
 </table>
+
+## 📈 My Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thecyberwar&theme=tokyo-night&area=true" width="950" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thecyberwar&theme=tokyonight&hide_border=false" width="950" />
+</p>
+
+
+## 🐍 GitHub Snake Contribution
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecyberwar&theme=tokyonight" width="950" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecyberwar&theme=tokyonight" width="450" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thecyberwar&theme=tokyonight" width="450" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thecyberwar&label=PROFILE+VIEWS&color=238636&style=flat-square" alt="Visitors" />
+</p>
+
+<p align="center">
+  <b>Developed & Maintained by <a href="https://github.com/thecyberwar">THE CYBER WAR ORG</a></b><br/>
+  <i>"In the world of technology, hackers are the modern-day explorers."</i>
+</p>
+
+<p align="center">
+  <a href="https://twitter.com/thecyberwar12"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="25"/></a>
+  <a href="https://linkedin.com/in/mayur-jawanjar-822a73342"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25"/></a>
+  <a href="https://www.youtube.com/c/@thecyberwar-v3"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="25"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:000000&height=100&section=footer" width="100%"/>
+</p>
