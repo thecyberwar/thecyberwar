@@ -181,7 +181,11 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 </table>
 
 
-
+<p align="center">
+  <a href="https://chat.whatsapp.com/HcGZ5BhrKGj6mNaXbpbny4">
+    <img src="https://img.shields.io/badge/JOIN_OUR_HACKER_COMMUNITY-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="40"/>
+  </a>
+</p>
 
 ---
 
