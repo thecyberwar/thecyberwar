@@ -137,16 +137,18 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thecyberwar&is_org=true&show_icons=true&theme=tokyonight&hide_border=false" alt="The Cyber War Stats" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecyberwar&is_org=true&layout=compact&theme=tokyonight&hide_border=false" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thecyberwar&theme=tokyonight&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thecyberwar&theme=tokyonight" />
-</p>
-
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=thecyberwar&is_org=true&show_icons=true&theme=tokyonight&hide_border=false" width="490" alt="The Cyber War Stats" />
+    </td>
+    <td rowspan="2" align="right" valign="top">
+      <img src="https://raw.githubusercontent.com/thecyberwar/thecyberwar/main/channels4_profile.jpg" width="430" style="border-radius: 10px; margin-left: 10px;" alt="The Cyber War Profile" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="bottom">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecyberwar&is_org=true&layout=compact&theme=tokyonight&hide_border=false" width="490" />
+    </td>
+  </tr>
+</table>
