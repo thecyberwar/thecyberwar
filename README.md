@@ -1,4 +1,4 @@
-![logo](https://github.com/thecyberwar/thecyberwar/blob/main/channels4_banner.jpg)
+![logo](https://github.com/thecyberwar/thecyberwar/blob/main/Organization_Banner.png)
 
 
 
