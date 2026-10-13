@@ -194,7 +194,7 @@ With expertise spanning **offensive security**, **exploit development**, **rever
 </p>
 
 <p align="center">
-  <b>Developed & Maintained by <a href="https://github.com/thecyberwar">THE CYBER WAR ORG</a></b><br/>
+  <b>Developed & Maintained by <a href="https://thecyberwark.kesug.com">THE CYBER WAR ORG</a></b><br/>
   <i>"In the world of technology, hackers are the modern-day explorers."</i>
 </p>
 
